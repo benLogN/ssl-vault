@@ -10,4 +10,4 @@
 
 
 # Pin the chef-vault Gem version:
-default['chef-vault']['version'] = '2.2.0'
+default['chef-vault']['version'] = '2.5.0'
